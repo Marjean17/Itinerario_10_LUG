@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9FA11D-E8EB-45AE-A457-9AD6E33162B5}|BLL_Empleado\\BLL_Empleado.csproj|c:\\users\\marje\\source\\repos\\itin_10_transacciones\\bll_empleado\\empleado_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9FA11D-E8EB-45AE-A457-9AD6E33162B5}|BLL_Empleado\\BLL_Empleado.csproj|solutionrelative:bll_empleado\\empleado_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F830A9-1849-4F68-9D97-9DE0C7277880}|UI_Empleado\\UI_Empleado.csproj|c:\\users\\marje\\source\\repos\\itin_10_transacciones\\ui_empleado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F830A9-1849-4F68-9D97-9DE0C7277880}|UI_Empleado\\UI_Empleado.csproj|solutionrelative:ui_empleado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F830A9-1849-4F68-9D97-9DE0C7277880}|UI_Empleado\\UI_Empleado.csproj|c:\\users\\marje\\source\\repos\\itin_10_transacciones\\ui_empleado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27F830A9-1849-4F68-9D97-9DE0C7277880}|UI_Empleado\\UI_Empleado.csproj|solutionrelative:ui_empleado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97E5599-D5C9-48B1-9851-BD4D11979455}|DAL_Empleado\\DAL_Empleado.csproj|c:\\users\\marje\\source\\repos\\itin_10_transacciones\\dal_empleado\\empleado_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97E5599-D5C9-48B1-9851-BD4D11979455}|DAL_Empleado\\DAL_Empleado.csproj|solutionrelative:dal_empleado\\empleado_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60350D5A-4285-42B3-B34F-121DFF25FBA6}|Entity\\Entity.csproj|c:\\users\\marje\\source\\repos\\itin_10_transacciones\\entity\\empleado_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60350D5A-4285-42B3-B34F-121DFF25FBA6}|Entity\\Entity.csproj|solutionrelative:entity\\empleado_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97E5599-D5C9-48B1-9851-BD4D11979455}|DAL_Empleado\\DAL_Empleado.csproj|c:\\users\\marje\\source\\repos\\itin_10_transacciones\\dal_empleado\\dbconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97E5599-D5C9-48B1-9851-BD4D11979455}|DAL_Empleado\\DAL_Empleado.csproj|solutionrelative:dal_empleado\\dbconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F830A9-1849-4F68-9D97-9DE0C7277880}|UI_Empleado\\UI_Empleado.csproj|c:\\users\\marje\\source\\repos\\itin_10_transacciones\\ui_empleado\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{27F830A9-1849-4F68-9D97-9DE0C7277880}|UI_Empleado\\UI_Empleado.csproj|solutionrelative:ui_empleado\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F830A9-1849-4F68-9D97-9DE0C7277880}|UI_Empleado\\UI_Empleado.csproj|c:\\users\\marje\\source\\repos\\itin_10_transacciones\\ui_empleado\\ui_empleado.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{27F830A9-1849-4F68-9D97-9DE0C7277880}|UI_Empleado\\UI_Empleado.csproj|solutionrelative:ui_empleado\\ui_empleado.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 759,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado_bll.cs",
+              "DocumentMoniker": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\BLL_Empleado\\Empleado_bll.cs",
+              "RelativeDocumentMoniker": "BLL_Empleado\\Empleado_bll.cs",
+              "ToolTip": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\BLL_Empleado\\Empleado_bll.cs",
+              "RelativeToolTip": "BLL_Empleado\\Empleado_bll.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:02:11.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado_dal.cs",
+              "DocumentMoniker": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\DAL_Empleado\\Empleado_dal.cs",
+              "RelativeDocumentMoniker": "DAL_Empleado\\Empleado_dal.cs",
+              "ToolTip": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\DAL_Empleado\\Empleado_dal.cs",
+              "RelativeToolTip": "DAL_Empleado\\Empleado_dal.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:52:39.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado_ui.cs",
+              "DocumentMoniker": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\Entity\\Empleado_ui.cs",
+              "RelativeDocumentMoniker": "Entity\\Empleado_ui.cs",
+              "ToolTip": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\Entity\\Empleado_ui.cs",
+              "RelativeToolTip": "Entity\\Empleado_ui.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:25:56.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\UI_Empleado\\Form1.cs",
+              "RelativeDocumentMoniker": "UI_Empleado\\Form1.cs",
+              "ToolTip": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\UI_Empleado\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI_Empleado\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:04:10.387Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbconfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\DAL_Empleado\\dbconfigurations.cs",
+              "RelativeDocumentMoniker": "DAL_Empleado\\dbconfigurations.cs",
+              "ToolTip": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\DAL_Empleado\\dbconfigurations.cs",
+              "RelativeToolTip": "DAL_Empleado\\dbconfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:17:10.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\UI_Empleado\\Form1.cs",
+              "RelativeDocumentMoniker": "UI_Empleado\\Form1.cs",
+              "ToolTip": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\UI_Empleado\\Form1.cs",
+              "RelativeToolTip": "UI_Empleado\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwC8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:45:21.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\UI_Empleado\\App.config",
+              "RelativeDocumentMoniker": "UI_Empleado\\App.config",
+              "ToolTip": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\UI_Empleado\\App.config",
+              "RelativeToolTip": "UI_Empleado\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T23:20:31.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UI_Empleado",
+              "DocumentMoniker": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\UI_Empleado\\UI_Empleado.csproj",
+              "RelativeDocumentMoniker": "UI_Empleado\\UI_Empleado.csproj",
+              "ToolTip": "C:\\Users\\marje\\source\\repos\\Itin_10_Transacciones\\UI_Empleado\\UI_Empleado.csproj",
+              "RelativeToolTip": "UI_Empleado\\UI_Empleado.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T23:19:06.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

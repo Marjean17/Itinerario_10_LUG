@@ -1,0 +1,15 @@
+C:\Users\marje\source\repos\Itin_10_Transacciones\DAL_Empleado\bin\Debug\net8.0\DAL_Empleado.deps.json
+C:\Users\marje\source\repos\Itin_10_Transacciones\DAL_Empleado\bin\Debug\net8.0\DAL_Empleado.dll
+C:\Users\marje\source\repos\Itin_10_Transacciones\DAL_Empleado\bin\Debug\net8.0\DAL_Empleado.pdb
+C:\Users\marje\source\repos\Itin_10_Transacciones\DAL_Empleado\bin\Debug\net8.0\Entity.dll
+C:\Users\marje\source\repos\Itin_10_Transacciones\DAL_Empleado\bin\Debug\net8.0\Entity.pdb
+C:\Users\marje\source\repos\Itin_10_Transacciones\DAL_Empleado\obj\Debug\net8.0\DAL_Empleado.csproj.AssemblyReference.cache
+C:\Users\marje\source\repos\Itin_10_Transacciones\DAL_Empleado\obj\Debug\net8.0\DAL_Empleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marje\source\repos\Itin_10_Transacciones\DAL_Empleado\obj\Debug\net8.0\DAL_Empleado.AssemblyInfoInputs.cache
+C:\Users\marje\source\repos\Itin_10_Transacciones\DAL_Empleado\obj\Debug\net8.0\DAL_Empleado.AssemblyInfo.cs
+C:\Users\marje\source\repos\Itin_10_Transacciones\DAL_Empleado\obj\Debug\net8.0\DAL_Empleado.csproj.CoreCompileInputs.cache
+C:\Users\marje\source\repos\Itin_10_Transacciones\DAL_Empleado\obj\Debug\net8.0\DAL_Empl.6541BDB1.Up2Date
+C:\Users\marje\source\repos\Itin_10_Transacciones\DAL_Empleado\obj\Debug\net8.0\DAL_Empleado.dll
+C:\Users\marje\source\repos\Itin_10_Transacciones\DAL_Empleado\obj\Debug\net8.0\refint\DAL_Empleado.dll
+C:\Users\marje\source\repos\Itin_10_Transacciones\DAL_Empleado\obj\Debug\net8.0\DAL_Empleado.pdb
+C:\Users\marje\source\repos\Itin_10_Transacciones\DAL_Empleado\obj\Debug\net8.0\ref\DAL_Empleado.dll
